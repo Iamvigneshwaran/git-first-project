@@ -1,1 +1,9 @@
 hello this is my first code
+
+<html>
+<head> <title>fun bro </title></head>
+  <body>
+  hello bro how are you!
+  how was the day ?
+  </body>
+</html>
